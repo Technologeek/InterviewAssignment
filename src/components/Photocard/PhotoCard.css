@@ -1,0 +1,16 @@
+.image img {
+  border-radius: 50%!important;
+}
+
+.tagSpace {
+	float: right;
+}
+.views {
+  float: right;
+  color: #ff3860;
+  font-size: 1.5em;
+}
+
+.someSpace {
+  margin-left: 5px;
+}

@@ -1,0 +1,17 @@
+.topPadding {
+  padding-top: 8px!important;
+}
+
+.navbar {
+  background-color: rgb(204, 204, 204);
+}
+
+.navMain {
+  color: #ff3860;
+  font-size: 1.2em;
+}
+
+.activeLink {
+  background-color: whitesmoke;
+  color: #0a0a0a;
+}
