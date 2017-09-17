@@ -66,14 +66,14 @@ export const PhotoCard = (props) => {
               return <Cards data={obj} markFavorite={markFavorite} key={i} />
             }) :
             <div className="column is-half is-offset-one-quarter">
-             <article className="message is-dark">
-               <div className="message-header">
-                 <p>Opps..</p>
-               </div>
-               <div className="message-body">
-                <strong>Please Mark Your Favourite From The List Menu</strong>
-                </div>
-             </article>
+                <article className="message is-dark">
+                    <div className="message-header">
+                        <p>Opps..</p>
+                    </div>
+                    <div className="message-body">
+                        <strong>Please Mark Your Favourite From The List Menu</strong>
+                    </div>
+                </article>
             </div>
       }
     </div>
