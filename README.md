@@ -22,7 +22,7 @@ Stack Contains
 
 Description
 --------------
-For the following given assignment I have used my own React-Redux based stack to achieve the goal of maintaining the state and dynamically updating the data.I have experimented with Redux-thunk,axios and react-router-redux while developing the application.I think I have met the edge-use use cases as per given in the mail.
+For the following given assignment I have used my own React-Redux based stack to achieve the goal of maintaining the state and dynamically updating the data.I have experimented with Redux-thunk,axios and react-router-redux while developing the application.I think I have met the edge use cases as per given in the mail.
 
 
 Requirements
